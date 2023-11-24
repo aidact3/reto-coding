@@ -1,0 +1,25 @@
+.card {
+  margin: 50px;
+  border-width: 5px;
+  border-color: black;
+  border-style: solid;
+  width: 400px;
+  background-color: white;
+}
+.image {
+  padding: 20px;
+  margin: auto;
+  width: 200px;
+}
+.name {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.description {
+  padding: 20px;
+}
+* {
+  background-color: blueviolet;
+}
